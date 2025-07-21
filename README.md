@@ -1,3 +1,32 @@
+# Alexis's explanation
+
+## Working time
+
+- 1 hour of reflection
+- 3 hours of coding
+- 1 hour of structure, readme and proofreading.
+
+## Coding
+
+I coded to run the tests in order:
+
+- The decorator, use reflect-metadata package.
+- Write and Read functions, with simple string
+- add reccursion
+- Update read function to be able to get the result of a function.
+- Update Write and Read function to check permission with children's class. First I coded to check only the key[0] permission, if key[0] has not the right, all nested elements didn't have too, then I coded to check nested permission.
+- entries function
+
+## Folders
+
+Folders have explicit names and I think it's understandable by everyone.
+
+## Concepts used
+
+OOP, decorator, recursion, Memoization, wrapper
+
+Thanks for reading me.
+
 # Store and Restrict Decorator Assignment
 
 This is the repository for the technical test of creating a Store class and a Restrict decorator to manage access to user-generated content and data.
